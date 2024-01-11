@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Eason0921
-- 👀 I’m interested in being a good AI engineer
-- 🌱 I’m currently learning deeping learning and neural network
 - 📫 How to reach me :1829818561@qq.com
